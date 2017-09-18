@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#aaa</color>
+    <color name="colorFacebookButton">#303F9F</color>
+    <color name="colorGoogleButton">#F44336</color>
+    <color name="colorAccent">#b90006</color>
+    <color name="tabIndicatorUnSelected">#E0F7FA</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="bgColor">#FFF</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorTransparentLogin">#40000000</color>
+    <color name="colorTransparentPlayers">#32000000</color>
+    <color name="colorGray">#e5e5e5</color>
+    <color name="colorGrayb">#DCDCDC</color>
+    <color name="greenTransparent">#CC00FF7F</color>
+    <color name="colorDarkGray">#808080</color>
+    <color name="colorText">#6a7180</color>
+</resources>

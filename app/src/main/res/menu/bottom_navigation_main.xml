@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_home"
+        app:showAsAction="ifRoom"
+        android:title="Home"/>
+    <item
+        android:id="@+id/action_players"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_team"
+        app:showAsAction="ifRoom"
+        android:title="Team"/>
+    <item
+        android:id="@+id/action_liga"
+        android:enabled="true"
+        android:icon="@drawable/ic_football_medal"
+        app:showAsAction="ifRoom"
+        android:title="League"/>
+
+
+</menu>
